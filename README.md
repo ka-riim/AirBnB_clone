@@ -35,7 +35,7 @@ be able to manage the objects of our project:
 
 ## General
 
- - How to create a Python package
+ - How to create a Python package as a software engineer
    
   - How to create a command interpreter in Python using the cmd module
    
