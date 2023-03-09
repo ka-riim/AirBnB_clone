@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+
 """Test"""
 from models.amenity import Amenity
 from models.base_model import BaseModel
