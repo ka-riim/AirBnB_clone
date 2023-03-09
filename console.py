@@ -1,4 +1,9 @@
-
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+"""Console Module
+This module controls all databases.
+Can create, modify and delete instances.
+"""
 
 
 from datetime import datetime
